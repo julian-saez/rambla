@@ -1,0 +1,23 @@
+$primary: #383E56;
+$secundary: #EBC03A;
+
+header {
+    width: 100%;
+    max-width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#menu {
+    margin-right: 2%;
+}
+
+#menu-links-group {
+    display: flex;
+}
+
+#menu-links-group li a {
+    color: white;
+    margin: 0 25px;
+}

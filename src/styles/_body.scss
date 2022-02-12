@@ -1,0 +1,27 @@
+$primary: #383E56;
+$secundary: #EBC03A;
+
+body {
+    background-color: $primary;
+}
+
+h1{
+    font-family: 'Kaushan Script', cursive;
+    color: white;
+}
+
+h2, h3, p, a, span, button {
+    font-family: 'Tenor Sans', sans-serif;
+}
+
+ol {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+#yellow-text {
+    color: $secundary;
+}

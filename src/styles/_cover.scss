@@ -1,0 +1,29 @@
+#cover {
+    height: 600px;
+    position: relative;
+    display: flex;
+    align-items: center;
+}
+
+#cover h2 {
+    color: white;
+    font-size: 4.3rem;
+    width: 30%;
+    margin-left: 7%;
+    margin-bottom: 8%;
+}
+
+#sillon {
+    position: absolute;
+    right: 0;
+    top: 0;
+    background-image: url('../assets/kam-idris.jpg');
+    width: 600px;
+    height: 600px;
+    max-width: 600px;
+    max-height: 600px;
+    background-color: white;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 170%;
+}
